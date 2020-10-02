@@ -1,4 +1,4 @@
-#sample website
+<h1>a sample website</h1>
 
 I have made this project as apart of [*Learn Enough command line to be dangerous*](https://www.learnenough.com/git-tutorial). which is one of the best resource to learn git.
 
